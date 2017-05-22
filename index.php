@@ -13,6 +13,8 @@
         session_start();
         if (isset($_SESSION['nickname'])) {
             include 'Vista/masterPage.php';
+            echo holaaaa
+                holllla
         } else {
             include 'Vista/logIn.php';
             echo 'holaaaa todos jajajaja';
