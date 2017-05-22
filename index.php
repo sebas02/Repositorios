@@ -20,6 +20,7 @@ and open the template in the editor.
             include 'Vista/masterPage.php';
         } else {
             include 'Vista/logIn.php';
+            echo 'Holaaaaaaa Mundoooo';
         }
         ?>
     </body>
