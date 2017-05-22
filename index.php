@@ -18,6 +18,7 @@
         } else {
             include 'Vista/logIn.php';
             echo 'holaaaa todos jajajaja';
+            echo 'hola'
         }
         ?>
     </body>
